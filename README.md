@@ -1,1 +1,2 @@
-# hairillusions.github.io
+# hairillusions
+Website for Hair Illusions
