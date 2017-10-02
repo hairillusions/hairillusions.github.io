@@ -1,0 +1,10 @@
+---
+title: Hairillusions.Github.Io
+timezone: America/Denver
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
